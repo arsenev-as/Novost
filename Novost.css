@@ -1,0 +1,18 @@
+#logo{
+    width: 5%;
+}
+
+
+.message {
+    font-size: 20px;
+    margin: 10px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    scroll-margin-block-end: 10px;
+    padding: 10px;
+    line-height: 200%;
+}
+
+
+    
